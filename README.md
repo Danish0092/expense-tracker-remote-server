@@ -1,4 +1,4 @@
-# Expense Tracker MCP Server
+# Expense Tracker Remote MCP Server
 
 An MCP server built with FastMCP and SQLite that integrates with Claude Desktop.
 
